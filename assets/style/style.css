@@ -1,0 +1,71 @@
+body {
+    background-image: url(https://images3.alphacoders.com/444/44447.jpg);
+    background-repeat: no-repeat;
+    background-size: auto;
+    font-family: 'Tillana', cursive;
+}
+#header{
+    height: 300px;
+}
+
+#side2{
+    width: 700px;
+    height: 250px;
+    background-image: -91px 0;
+    padding: 20px;
+    margin-left: 150px;
+   }
+
+h1{
+    font-size: 50px;
+    padding-left: 15%;
+    color: white;
+    margin-top: -175px;
+    margin-left: 225px;
+}
+.jumbotron{
+    background-color: rgba(162, 230, 247, 0.4);
+    height: 350px;
+    padding-top: 10px;
+   
+
+}
+#button{
+    margin-left: 115px;
+}
+.qaArea{
+    
+}
+.question{
+    font-size: 25px;
+    color:black;
+}
+#button{
+    margin-left: 150px;
+}
+.redBtn{
+    padding: 10px;
+    float: left;
+    border: 2px solid black;
+    background-color:  rgba(43, 166, 248, 0.377);
+    width: 200px;
+    height: auto;
+}
+img{
+    margin-left:80px;
+}
+.rightAnswer{
+    margin-left: 75px;
+}
+.wrongAnswer{
+    margin-left: 75px;
+}
+.score{
+    margin-left: 125px;
+}
+.gameOver{
+    margin-left: 125px;
+}
+.resetBtn{
+    margin-left: 125px;
+}
